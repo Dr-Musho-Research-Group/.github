@@ -14,7 +14,7 @@ Usage is free to modify. If you use the code for a journal publication, please c
 
 ## Deployment
 
-A lot of the code was written for High Performance Computer deployment. Therefore, will work best right out of the box in Linux. This is a mute for more recent python codes that use Jupiter notebooks.
+A lot of the code was written for High Performance Computer deployment. Therefore, will work best right out of the box in Linux. This is a mute point for more recent python codes that use Jupiter notebooks.
 
 ## Journal Papers and Acknowledgements
 Here is a list of publications:
